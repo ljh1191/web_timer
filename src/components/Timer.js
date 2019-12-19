@@ -109,12 +109,12 @@ class Timer extends Component {
           </button>
         </div>
         <div className="log-button">
-          {/* <button
+          <button
             onClick={this.logTime}
             className="btn btn-block btn-secondary"
           >
             Log Time
-          </button> */}
+          </button>
         </div>
       </div>
     );
